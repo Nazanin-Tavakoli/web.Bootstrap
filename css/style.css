@@ -1,0 +1,34 @@
+.bg-brown-mode {
+    background: #fad39c;
+}
+
+.width {
+    width: 60%;
+} 
+
+.button-nav {
+    background-color: #ff8356;
+    color: black;
+}
+
+.button-nav:hover {
+    background-color: #9b2a01;
+    color: white;
+}
+
+.div-nav a:hover{
+    color: #dd1e05 !important;
+    transform: translate(2px);
+    transition: all 0.5s;
+}
+
+.div-nav a {
+    margin-right: 2rem;
+}
+
+@media (min-width: 576px) {
+    .text-wrap-sm {
+      white-space: normal !important;
+    }
+
+
