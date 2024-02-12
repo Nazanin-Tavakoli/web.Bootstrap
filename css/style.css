@@ -34,6 +34,43 @@
     background: #f79f65;
 }
 
+.carousel-item {
+    height: 100vh;
+    background-color: aqua;
+}
+
+
+
+
+.one {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/pic1.jpg");
+}
+
+.two {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/Yellow.jpg");
+}
+
+.three {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/output-onlinejpgtools.jpg");
+}
+
+.width_1 {
+    max-width: 400px;
+}
+
+.btn_color {
+    background-color: aqua;
+}
+
+
+
+
 .a_footer a > i {
     font-size: 0.7rem;
     padding-right: 4px;
