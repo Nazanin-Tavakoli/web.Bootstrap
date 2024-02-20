@@ -1,0 +1,155 @@
+.bg-brown-mode {
+  background: #fad39c;
+}
+
+.width {
+  width: 60%;
+} 
+
+.button-nav {
+  background-color: #ff8356;
+  color: black;
+}
+
+.button-nav:hover {
+  background-color: #9b2a01;
+  color: white;
+}
+
+.div-nav a:hover{
+  color: #dd1e05 !important;
+  transform: translate(2px);
+  transition: all 0.5s;
+}
+
+.div-nav a {
+  margin-right: 2rem;
+}
+
+.margin {
+  margin-top: -100%;
+}
+
+.bg-brown-mode2 {
+  background: #f79f65;
+}
+
+.carousel-item {
+  height: 100vh;
+  background-color: aqua;
+}
+
+
+
+
+.one {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../img/pic1.jpg");
+}
+
+.two {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../img/Yellow.jpg");
+}
+
+.three {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../img/output-onlinejpgtools.jpg");
+}
+
+.width_1 {
+  max-width: 400px;
+}
+
+.btn_color {
+  background-color: aqua;
+}
+
+
+
+
+.a_footer a > i {
+  font-size: 0.7rem;
+  padding-right: 4px;
+}
+
+.button-nav_1 {
+  background-color: #ff8356;
+  color: black;
+}
+
+.button-nav_1:hover {
+  background-color: #9b2a01;
+  color: white;
+  border-radius: 40px;
+  transition: all 0.7s;
+}
+
+
+.a_footer a:hover {
+  transform: translateY(2px) scale(1.1);
+  color: rgb(255, 249, 249);
+  transition: transform 0.5s;
+}
+
+.a_footerbottom {
+  text-decoration: none;
+  color: rgb(226, 238, 238);
+}
+
+.c_in:focus {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+  border-radius: 40px;
+  transition: all 1s;
+}
+
+.div_bottom a:hover {
+  color: white;
+}
+
+
+.max_width {
+  max-width: 450px !important;
+}
+
+.max_width2 {
+  max-width: 500px !important;
+}
+.mt{
+  margin-top: 20%;
+  
+}
+.d-block{
+  height: 40%;
+margin-top: 20%;
+ 
+ 
+
+}
+.text-center{
+  margin-top: 100px;
+}
+.containerm{
+  margin-top: 10%;
+}
+.lolita{
+  width: 100%;
+  margin-top: 20%;
+  height: 40%;
+}
+.h{
+  margin-left: 100px;
+}
+.s{
+  margin-left: 300px;
+  width: 300px;
+  height: 200px;
+}
+
+.z{
+  margin-top: 150px;
+  margin-left: 100px;
+}
